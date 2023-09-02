@@ -1,4 +1,6 @@
 ### Hi there 👋
+**I am Fang Zhixiang, and this is my warehouse for soft work operations**
+I hope that through the software engineering course, I can hone my excellent awareness of software and contribute to the future.
 
 <!--
 **fangzhixiang/fangzhixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
